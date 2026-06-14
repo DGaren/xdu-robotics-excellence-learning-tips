@@ -1,6 +1,6 @@
 **免责声明：这篇文章不会对老师进行评价，如果想要看各个老师的评价的话，可以在微信小程序“对策府库”上查询，但是博主对小程序内的评价不持有任何意见。** 
 
-**这篇文章可以算是[https://zhuanlan.zhihu.com/p/652836971](https://zhuanlan.zhihu.com/p/652836971)这篇文章的“机器人工程版本”（原文讲的是计科），因此部分内容如果和这篇文章有重叠，我就略过了，不方便之处还请海涵。** 
+**这篇文章可以算是[https://zhuanlan.zhihu.com/p/652836971](https://zhuanlan.zhihu.com/p/652836971)以及[https://github.com/zimuzi2019/xducs-learning-tips](https://github.com/zimuzi2019/xducs-learning-tips)的“机器人工程版本”（原文讲的是计科），因此部分内容如果和这篇文章有重叠，我就略过了，不方便之处还请海涵。** 
 
 ## 阅前注意
 
